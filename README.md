@@ -47,9 +47,7 @@ Plot the performance plot.
 Evaluate the model with the testing data.
 
 ## PROGRAM:
-```
-Developed by : Anto Richard.S
-Reg.no : 21222124005
+```python
 Program to develop a neural network regression model..
 
 ### To Read CSV file from Google Drive :
