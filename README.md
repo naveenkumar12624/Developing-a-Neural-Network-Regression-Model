@@ -1,4 +1,4 @@
-#EX-01 - DEVELOPING A NEURAL NETWORK REGRESSION MODEL.
+# EX-01 - DEVELOPING A NEURAL NETWORK REGRESSION MODEL.
 
 ## AIM :
 To develop a neural network regression model for the given dataset.
