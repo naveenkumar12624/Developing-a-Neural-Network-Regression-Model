@@ -10,7 +10,7 @@ Use df.head to get the first 5 values from the dataset or sheet.Then assign x an
 
 ## NEURAL NETWORK MODEL :
 <p align="center">
-<img width="550" src="neural-network-model.png"> </p>
+<img width="350" src="neural-network-model.png"> </p>
 
 ## DESIGN STEPS :
 ### STEP 1:
